@@ -13,13 +13,32 @@
                 <div class="collapse navbar-collapse main-menu">
                     <div class="nav-menu-wrapper">
                         <ul class="navbar-nav mr-auto" id="menu">
-                            <li class="nav-item"><a class="nav-link" href="#home">Accueil</a></li>
-                            <li class="nav-item"><a class="nav-link" href="#about">À propos</a></li>
-                            <li class="nav-item"><a class="nav-link" href="#products">Produits</a></li>
-                            <li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
-                            <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+                            @php
+                                $isHome = url()->current() === route('home');
+                            @endphp
+
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ $isHome ? '#home' : route('home').'#home' }}">Accueil</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ $isHome ? '#about' : route('home').'#about' }}">À propos</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ $isHome ? '#services' : route('home').'#services' }}">Services</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ $isHome ? '#products' : route('home').'#products' }}">Produits</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ $isHome ? '#contact' : route('home').'#contact' }}">Contact</a>
+                            </li>
                         </ul>
                     </div>
+
 
                     <!-- Header Social Box Start -->
                     <div class="header-social-box d-inline-flex">
