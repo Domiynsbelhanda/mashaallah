@@ -25,283 +25,145 @@
     </div>
     <!-- Page Header End -->
 
-    <!-- Page Team Start -->
-    <div class="page-team">
+    <!-- Our Work Section Start -->
+    <div id="products" class="our-work">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-3 col-md-6">
-                    <!-- Team Member Item Start -->
-                    <div class="team-member-item wow fadeInUp">
-                        <!-- Team Image Start -->
-                        <div class="team-image">
-                            <a href="team-single.html" data-cursor-text="View">
-                                <figure class="image-anime">
-                                    <img src="images/team-1.jpg" alt="">
-                                </figure>
-                            </a>
-
-                            <!-- Team Social Icon Start -->
-                            <div class="team-social-icon">
-                                <ul>
-                                    <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- Team Social Icon End -->
-                        </div>
-                        <!-- Team Image End -->
-
-                        <!-- Team Content Start -->
-                        <div class="team-content">
-                            <h3><a href="team-single.html">ronald richards</a></h3>
-                            <p>manufacturing executive</p>
-                        </div>
-                        <!-- Team Content End -->
+            <div class="row section-row align-items-center">
+                <div class="col-lg-6">
+                    <!-- Section Title Start -->
+                    <div class="section-title">
+                        <h2 class="text-anime-style-2" data-cursor="-opaque">Nos <span> produits</span></h2>
                     </div>
-                    <!-- Team Member Item End -->
+                    <!-- Section Title End -->
                 </div>
 
-                <div class="col-lg-3 col-md-6">
-                    <!-- Team Member Item Start -->
-                    <div class="team-member-item wow fadeInUp" data-wow-delay="0.25s">
-                        <!-- Team Image Start -->
-                        <div class="team-image">
-                            <a href="team-single.html" data-cursor-text="View">
-                                <figure class="image-anime">
-                                    <img src="images/team-2.jpg" alt="">
-                                </figure>
-                            </a>
-
-                            <!-- Team Social Icon Start -->
-                            <div class="team-social-icon">
-                                <ul>
-                                    <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- Team Social Icon End -->
-                        </div>
-                        <!-- Team Image End -->
-
-                        <!-- Team Content Start -->
-                        <div class="team-content">
-                            <h3><a href="team-single.html">brooklyn simmons</a></h3>
-                            <p>industrial engineer</p>
-                        </div>
-                        <!-- Team Content End -->
+                <div class="col-lg-6">
+                    <!-- Section Button Start -->
+                    <div class="section-btn wow fadeInUp" data-wow-delay="0.25s">
+                        <a href="{{route('products')}}" class="btn-default"><span>Tous nos produits</span></a>
                     </div>
-                    <!-- Team Member Item End -->
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <!-- Team Member Item Start -->
-                    <div class="team-member-item wow fadeInUp" data-wow-delay="0.5s">
-                        <!-- Team Image Start -->
-                        <div class="team-image">
-                            <a href="team-single.html" data-cursor-text="View">
-                                <figure class="image-anime">
-                                    <img src="images/team-3.jpg" alt="">
-                                </figure>
-                            </a>
-
-                            <!-- Team Social Icon Start -->
-                            <div class="team-social-icon">
-                                <ul>
-                                    <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- Team Social Icon End -->
-                        </div>
-                        <!-- Team Image End -->
-
-                        <!-- Team Content Start -->
-                        <div class="team-content">
-                            <h3><a href="team-single.html">cameron williamson</a></h3>
-                            <p>production supervisor</p>
-                        </div>
-                        <!-- Team Content End -->
-                    </div>
-                    <!-- Team Member Item End -->
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <!-- Team Member Item Start -->
-                    <div class="team-member-item wow fadeInUp" data-wow-delay="0.5s">
-                        <!-- Team Image Start -->
-                        <div class="team-image">
-                            <a href="team-single.html" data-cursor-text="View">
-                                <figure class="image-anime">
-                                    <img src="images/team-4.jpg" alt="">
-                                </figure>
-                            </a>
-
-                            <!-- Team Social Icon Start -->
-                            <div class="team-social-icon">
-                                <ul>
-                                    <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- Team Social Icon End -->
-                        </div>
-                        <!-- Team Image End -->
-
-                        <!-- Team Content Start -->
-                        <div class="team-content">
-                            <h3><a href="team-single.html">darlene robertson</a></h3>
-                            <p>project manager</p>
-                        </div>
-                        <!-- Team Content End -->
-                    </div>
-                    <!-- Team Member Item End -->
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <!-- Team Member Item Start -->
-                    <div class="team-member-item wow fadeInUp">
-                        <!-- Team Image Start -->
-                        <div class="team-image">
-                            <a href="team-single.html" data-cursor-text="View">
-                                <figure class="image-anime">
-                                    <img src="images/team-5.jpg" alt="">
-                                </figure>
-                            </a>
-
-                            <!-- Team Social Icon Start -->
-                            <div class="team-social-icon">
-                                <ul>
-                                    <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- Team Social Icon End -->
-                        </div>
-                        <!-- Team Image End -->
-
-                        <!-- Team Content Start -->
-                        <div class="team-content">
-                            <h3><a href="team-single.html">sophia white</a></h3>
-                            <p>process engineer</p>
-                        </div>
-                        <!-- Team Content End -->
-                    </div>
-                    <!-- Team Member Item End -->
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <!-- Team Member Item Start -->
-                    <div class="team-member-item wow fadeInUp" data-wow-delay="0.25s">
-                        <!-- Team Image Start -->
-                        <div class="team-image">
-                            <a href="team-single.html" data-cursor-text="View">
-                                <figure class="image-anime">
-                                    <img src="images/team-6.jpg" alt="">
-                                </figure>
-                            </a>
-
-                            <!-- Team Social Icon Start -->
-                            <div class="team-social-icon">
-                                <ul>
-                                    <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- Team Social Icon End -->
-                        </div>
-                        <!-- Team Image End -->
-
-                        <!-- Team Content Start -->
-                        <div class="team-content">
-                            <h3><a href="team-single.html">laura miller</a></h3>
-                            <p>product engineer</p>
-                        </div>
-                        <!-- Team Content End -->
-                    </div>
-                    <!-- Team Member Item End -->
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <!-- Team Member Item Start -->
-                    <div class="team-member-item wow fadeInUp" data-wow-delay="0.5s">
-                        <!-- Team Image Start -->
-                        <div class="team-image">
-                            <a href="team-single.html" data-cursor-text="View">
-                                <figure class="image-anime">
-                                    <img src="images/team-7.jpg" alt="">
-                                </figure>
-                            </a>
-
-                            <!-- Team Social Icon Start -->
-                            <div class="team-social-icon">
-                                <ul>
-                                    <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- Team Social Icon End -->
-                        </div>
-                        <!-- Team Image End -->
-
-                        <!-- Team Content Start -->
-                        <div class="team-content">
-                            <h3><a href="team-single.html">olivia walker</a></h3>
-                            <p>machine operator</p>
-                        </div>
-                        <!-- Team Content End -->
-                    </div>
-                    <!-- Team Member Item End -->
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <!-- Team Member Item Start -->
-                    <div class="team-member-item wow fadeInUp" data-wow-delay="0.5s">
-                        <!-- Team Image Start -->
-                        <div class="team-image">
-                            <a href="team-single.html" data-cursor-text="View">
-                                <figure class="image-anime">
-                                    <img src="images/team-8.jpg" alt="">
-                                </figure>
-                            </a>
-
-                            <!-- Team Social Icon Start -->
-                            <div class="team-social-icon">
-                                <ul>
-                                    <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- Team Social Icon End -->
-                        </div>
-                        <!-- Team Image End -->
-
-                        <!-- Team Content Start -->
-                        <div class="team-content">
-                            <h3><a href="team-single.html">ryan wright</a></h3>
-                            <p>maintenance manager</p>
-                        </div>
-                        <!-- Team Content End -->
-                    </div>
-                    <!-- Team Member Item End -->
+                    <!-- Section Button End -->
                 </div>
             </div>
+
+            <div class="row">
+
+                <div class="col-lg-3 col-md-6">
+                    <div class="team-member-item wow fadeInUp">
+                        <div class="team-image">
+                            <figure class="image-anime">
+                                <img src="{{asset('images/baguette.jpg')}}" alt="">
+                            </figure>
+                        </div>
+
+                        <div class="team-content">
+                            <h3>Baguettes</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6">
+                    <div class="team-member-item wow fadeInUp" data-wow-delay="0.25s">
+                        <div class="team-image">
+                            <figure class="image-anime">
+                                <img src="{{asset('images/product-2.jpg')}}" alt="">
+                            </figure>
+                        </div>
+
+                        <div class="team-content">
+                            <h3>brooklyn simmons</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6">
+                    <div class="team-member-item wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="team-image">
+                            <figure class="image-anime">
+                                <img src="{{asset('images/product-3.jpg')}}" alt="">
+                            </figure>
+                        </div>
+
+                        <div class="team-content">
+                            <h3>cameron williamson</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6">
+                    <div class="team-member-item wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="team-image">
+                            <figure class="image-anime">
+                                <img src="{{asset('images/product-4.jpg')}}" alt="">
+                            </figure>
+                        </div>
+
+                        <div class="team-content">
+                            <h3>darlene robertson</h3>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-3 col-md-6">
+                    <div class="team-member-item wow fadeInUp">
+                        <div class="team-image">
+                            <figure class="image-anime">
+                                <img src="{{asset('images/product-5.jpg')}}" alt="">
+                            </figure>
+                        </div>
+
+                        <div class="team-content">
+                            <h3>sophia white</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6">
+                    <div class="team-member-item wow fadeInUp" data-wow-delay="0.25s">
+                        <div class="team-image">
+                            <figure class="image-anime">
+                                <img src="{{asset('images/product-6.jpg')}}" alt="">
+                            </figure>
+                        </div>
+
+                        <div class="team-content">
+                            <h3>Bottes</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6">
+                    <div class="team-member-item wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="team-image">
+                            <figure class="image-anime">
+                                <img src="{{asset('images/product-7.jpg')}}" alt="">
+                            </figure>
+                        </div>
+
+                        <div class="team-content">
+                            <h3>Reflettants et Tenus de travail</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6">
+                    <div class="team-member-item wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="team-image">
+                            <figure class="image-anime">
+                                <img src="{{asset('images/product-8.jpg')}}" alt="">
+                            </figure>
+                        </div>
+
+                        <div class="team-content">
+                            <h3>ryan wright</h3>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
         </div>
     </div>
-    <!-- Page Team End -->
+    <!-- Our Work Section End -->
 @endsection

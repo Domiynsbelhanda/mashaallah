@@ -41,7 +41,7 @@
 
 /************************************/
 /*** 	 01. Global Variables	  ***/
-/************************************/	
+/************************************/
 
 :root{
 	--primary-color			: #222222;
@@ -497,7 +497,7 @@ body{
 	justify-content: end;
 }
 
-.topbar-contact-info ul{ 
+.topbar-contact-info ul{
 	margin: 0;
 	padding: 0;
 	list-style: none;
@@ -2084,7 +2084,6 @@ header.main-header .header-sticky.active{
 
 .testimonial-company-slider .company-logo img{
 	width: 100%;
-	max-height: 40px;
 }
 
 /************************************/
@@ -2807,7 +2806,7 @@ header.main-header .header-sticky.active{
     left: 0;
     right: 0;
     bottom: 0;
-	margin: 0 auto; 
+	margin: 0 auto;
 	transform: translateY(100%);
 	text-align: center;
 	z-index: 2;
@@ -2983,14 +2982,14 @@ header.main-header .header-sticky.active{
 	color: var(--primary-color);
 }
 
-.our-faq-section .accordion-item .accordion-button::after, 
+.our-faq-section .accordion-item .accordion-button::after,
 .our-faq-section .accordion-item .accordion-button.collapsed::after{
     content: '\f077';
     font-family: 'FontAwesome';
     position: absolute;
     right: 20px;
     top: 50%;
-	transform: translateY(-50%);    
+	transform: translateY(-50%);
     font-size: 16px;
     color: var(--primary-color);
     transition: all 0.3s ease-in-out;
@@ -3145,7 +3144,7 @@ header.main-header .header-sticky.active{
 
 .sidebar-cta-logo img{
     width: 100%;
-	max-width: 160px;	
+	max-width: 160px;
 }
 
 .sidebar-cta-content{
@@ -3456,7 +3455,7 @@ header.main-header .header-sticky.active{
     transition: all 0.3s ease-in-out;
 }
 
-.page-pagination ul li.active a, 
+.page-pagination ul li.active a,
 .page-pagination ul li a:hover{
     background: var(--accent-color);
     color: var(--white-color);
@@ -3963,7 +3962,7 @@ header.main-header .header-sticky.active{
 	text-align: center;
 	margin-bottom: 20px;
 }
-	
+
 .team-member-name h3{
 	font-size: 20px;
 	font-weight: 600;
@@ -5108,7 +5107,7 @@ header.main-header .header-sticky.active{
 		margin-bottom: 20px;
 	}
 
-	.post-featured-image figure, 
+	.post-featured-image figure,
 	.post-featured-image a,
 	.post-featured-image img{
 		aspect-ratio: 1 / 0.73;
@@ -5667,30 +5666,30 @@ header.main-header .header-sticky.active{
 	.page-faqs{
 		padding: 50px 0;
 	}
-	
+
 	.faq-sidebar{
 		position: initial;
 		margin-right: 0;
 		margin-bottom: 30px;
 	}
-	
+
 	.faq-catagery-list{
 		margin-bottom: 30px;
 	}
-	
+
 	.faq-catagery-list ul li{
 		padding-bottom: 15px;
 		margin-bottom: 15px;
 	}
-	
+
 	.faq-catagery-list ul li a::after{
 		width: 22px;
 		height: 22px;
 	}
-	
+
 	.our-faq-section.page-faq-accordion{
 		margin-bottom: 30px;
-	}	
+	}
 
 	.page-contact-us{
 		padding: 50px 0;
@@ -5733,7 +5732,7 @@ header.main-header .header-sticky.active{
 	.error-page{
 		padding: 50px 0;
 	}
-	
+
 	.error-page-image{
 		margin-bottom: 20px;
 	}
@@ -5816,7 +5815,7 @@ header.main-header .header-sticky.active{
 	.about-img-2{
 		max-width: 250px;
 	}
-	
+
 	.company-experience{
 		display: block;
 		top: 15px;
@@ -6264,7 +6263,7 @@ header.main-header .header-sticky.active{
 		background-position: 15px 15px;
         padding: 65px 15px 15px 15px;
 	}
-	
+
 	.post-entry h2{
 		font-size: 28px;
 	}

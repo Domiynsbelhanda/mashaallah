@@ -285,12 +285,12 @@
                     <div class="team-member-item wow fadeInUp">
                         <div class="team-image">
                             <figure class="image-anime">
-                                <img src="images/team-1.jpg" alt="">
+                                <img src="{{asset('images/baguette.jpg')}}" alt="">
                             </figure>
                         </div>
 
                         <div class="team-content">
-                            <h3>ronald richards</h3>
+                            <h3>Baguettes</h3>
                         </div>
                     </div>
                 </div>
@@ -299,7 +299,7 @@
                     <div class="team-member-item wow fadeInUp" data-wow-delay="0.25s">
                         <div class="team-image">
                             <figure class="image-anime">
-                                <img src="images/team-2.jpg" alt="">
+                                <img src="{{asset('images/product-2.jpg')}}" alt="">
                             </figure>
                         </div>
 
@@ -313,7 +313,7 @@
                     <div class="team-member-item wow fadeInUp" data-wow-delay="0.5s">
                         <div class="team-image">
                             <figure class="image-anime">
-                                <img src="images/team-3.jpg" alt="">
+                                <img src="{{asset('images/product-3.jpg')}}" alt="">
                             </figure>
                         </div>
 
@@ -327,7 +327,7 @@
                     <div class="team-member-item wow fadeInUp" data-wow-delay="0.5s">
                         <div class="team-image">
                             <figure class="image-anime">
-                                <img src="images/team-4.jpg" alt="">
+                                <img src="{{asset('images/product-4.jpg')}}" alt="">
                             </figure>
                         </div>
 
@@ -342,12 +342,12 @@
                     <div class="team-member-item wow fadeInUp">
                         <div class="team-image">
                             <figure class="image-anime">
-                                <img src="images/team-5.jpg" alt="">
+                                <img src="{{asset('images/product-5.jpg')}}" alt="">
                             </figure>
                         </div>
 
                         <div class="team-content">
-                            <h3>sophia white</hh3>
+                            <h3>sophia white</h3>
                         </div>
                     </div>
                 </div>
@@ -356,12 +356,12 @@
                     <div class="team-member-item wow fadeInUp" data-wow-delay="0.25s">
                         <div class="team-image">
                             <figure class="image-anime">
-                                <img src="images/team-6.jpg" alt="">
+                                <img src="{{asset('images/product-6.jpg')}}" alt="">
                             </figure>
                         </div>
 
                         <div class="team-content">
-                            <h3>laura miller</h3>
+                            <h3>Bottes</h3>
                         </div>
                     </div>
                 </div>
@@ -370,12 +370,12 @@
                     <div class="team-member-item wow fadeInUp" data-wow-delay="0.5s">
                         <div class="team-image">
                             <figure class="image-anime">
-                                <img src="images/team-7.jpg" alt="">
+                                <img src="{{asset('images/product-7.jpg')}}" alt="">
                             </figure>
                         </div>
 
                         <div class="team-content">
-                            <h3>olivia walker</h3>
+                            <h3>Reflettants et Tenus de travail</h3>
                         </div>
                     </div>
                 </div>
@@ -384,7 +384,7 @@
                     <div class="team-member-item wow fadeInUp" data-wow-delay="0.5s">
                         <div class="team-image">
                             <figure class="image-anime">
-                                <img src="images/team-8.jpg" alt="">
+                                <img src="{{asset('images/product-8.jpg')}}" alt="">
                             </figure>
                         </div>
 
@@ -412,7 +412,7 @@
                                 <!-- Agency Support Logo Start -->
                                 <div class="swiper-slide">
                                     <div class="company-logo">
-                                        <img src="images/company-logo-1.svg" alt="">
+                                        <img src="{{asset('images/stl-logo.png')}}" alt="">
                                     </div>
                                 </div>
                                 <!-- Agency Support Logo End -->
@@ -420,7 +420,7 @@
                                 <!-- Agency Support Logo Start -->
                                 <div class="swiper-slide">
                                     <div class="company-logo">
-                                        <img src="images/company-logo-2.svg" alt="">
+                                        <img src="{{asset('images/sncc-logo.png')}}" alt="">
                                     </div>
                                 </div>
                                 <!-- Agency Support Logo End -->
@@ -428,7 +428,16 @@
                                 <!-- Agency Support Logo Start -->
                                 <div class="swiper-slide">
                                     <div class="company-logo">
-                                        <img src="images/company-logo-3.svg" alt="">
+                                        <img src="{{asset('images/msf-logo.png')}}" alt="">
+                                    </div>
+                                </div>
+                                <!-- Agency Support Logo End -->
+
+
+                                <!-- Agency Support Logo Start -->
+                                <div class="swiper-slide">
+                                    <div class="company-logo">
+                                        <img src="{{asset('images/stl-logo.png')}}" alt="">
                                     </div>
                                 </div>
                                 <!-- Agency Support Logo End -->
@@ -436,7 +445,7 @@
                                 <!-- Agency Support Logo Start -->
                                 <div class="swiper-slide">
                                     <div class="company-logo">
-                                        <img src="images/company-logo-4.svg" alt="">
+                                        <img src="{{asset('images/sncc-logo.png')}}" alt="">
                                     </div>
                                 </div>
                                 <!-- Agency Support Logo End -->
@@ -444,15 +453,7 @@
                                 <!-- Agency Support Logo Start -->
                                 <div class="swiper-slide">
                                     <div class="company-logo">
-                                        <img src="images/company-logo-5.svg" alt="">
-                                    </div>
-                                </div>
-                                <!-- Agency Support Logo End -->
-
-                                <!-- Agency Support Logo Start -->
-                                <div class="swiper-slide">
-                                    <div class="company-logo">
-                                        <img src="images/company-logo-1.svg" alt="">
+                                        <img src="{{asset('images/msf-logo.png')}}" alt="">
                                     </div>
                                 </div>
                                 <!-- Agency Support Logo End -->
