@@ -36,9 +36,6 @@
 </head>
 <body>
 
-    <div id="google_translate_element" style="text-align:right;"></div>
-
-
 <!-- Preloader Start -->
 <div class="preloader">
     <div class="loading-container">
@@ -55,23 +52,6 @@
     @yield('content')
 
     @include('partials._footer')
-
-    <script type="text/javascript">
-        function googleTranslateElementInit() {
-            new google.translate.TranslateElement(
-                {
-                    pageLanguage: 'fr',
-                    includedLanguages: 'en,fr,sw,de,es', // langues autorisées
-                    layout: google.translate.TranslateElement.InlineLayout.SIMPLE
-                },
-                'google_translate_element'
-            );
-        }
-    </script>
-
-    <script type="text/javascript"
-            src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
-    </script>
 
 
     <!-- Jquery Library File -->
