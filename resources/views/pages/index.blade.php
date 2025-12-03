@@ -289,9 +289,9 @@
                             </figure>
                         </div>
 
-                        <div class="team-content">
-                            <h3>Baguettes</h3>
-                        </div>
+{{--                        <div class="team-content">--}}
+{{--                            <h3>Baguettes</h3>--}}
+{{--                        </div>--}}
                     </div>
                 </div>
 
@@ -303,9 +303,9 @@
                             </figure>
                         </div>
 
-                        <div class="team-content">
-                            <h3>brooklyn simmons</h3>
-                        </div>
+{{--                        <div class="team-content">--}}
+{{--                            <h3>brooklyn simmons</h3>--}}
+{{--                        </div>--}}
                     </div>
                 </div>
 
@@ -317,9 +317,9 @@
                             </figure>
                         </div>
 
-                        <div class="team-content">
-                            <h3>cameron williamson</h3>
-                        </div>
+{{--                        <div class="team-content">--}}
+{{--                            <h3>cameron williamson</h3>--}}
+{{--                        </div>--}}
                     </div>
                 </div>
 
@@ -331,9 +331,9 @@
                             </figure>
                         </div>
 
-                        <div class="team-content">
-                            <h3>darlene robertson</h3>
-                        </div>
+{{--                        <div class="team-content">--}}
+{{--                            <h3>darlene robertson</h3>--}}
+{{--                        </div>--}}
                     </div>
                 </div>
 
@@ -346,9 +346,9 @@
                             </figure>
                         </div>
 
-                        <div class="team-content">
-                            <h3>sophia white</h3>
-                        </div>
+{{--                        <div class="team-content">--}}
+{{--                            <h3>sophia white</h3>--}}
+{{--                        </div>--}}
                     </div>
                 </div>
 
@@ -360,9 +360,9 @@
                             </figure>
                         </div>
 
-                        <div class="team-content">
-                            <h3>Bottes</h3>
-                        </div>
+{{--                        <div class="team-content">--}}
+{{--                            <h3>Bottes</h3>--}}
+{{--                        </div>--}}
                     </div>
                 </div>
 
@@ -374,9 +374,9 @@
                             </figure>
                         </div>
 
-                        <div class="team-content">
-                            <h3>Reflettants et Tenus de travail</h3>
-                        </div>
+{{--                        <div class="team-content">--}}
+{{--                            <h3>Reflettants et Tenus de travail</h3>--}}
+{{--                        </div>--}}
                     </div>
                 </div>
 
@@ -388,9 +388,9 @@
                             </figure>
                         </div>
 
-                        <div class="team-content">
-                            <h3>ryan wright</h3>
-                        </div>
+{{--                        <div class="team-content">--}}
+{{--                            <h3>ryan wright</h3>--}}
+{{--                        </div>--}}
                     </div>
                 </div>
 
